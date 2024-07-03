@@ -1,5 +1,5 @@
 # Digital-Clock
-Create a simple digital clock using HTML, CSS, and Javascript that displays real-time updates, simulating the experience of reading time on a real digital watch. 
+Its a simple digital clock using HTML, CSS, and Javascript that displays real-time updates, simulating the experience of reading time on a real digital watch. 
 All you need is a code editor or Notepad and a web browser to run this code.”
 
 Feel free to ask if you need further assistance or have any query!. 
